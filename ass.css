@@ -1,0 +1,448 @@
+.card1{
+    width:200px;
+    height:1050px;
+    background-color:navy ;
+    box-sizing:content-box;   
+}
+.card{
+    display: flex;
+}
+Img{
+    width: 20px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+    margin-left: 15px;
+    margin-right: 22px;
+    height: 20px;    
+}
+.P1{
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.P2{
+    color:antiquewhite;
+    margin-top: 20px;
+}
+.Img2{
+    background-color: transparent;
+    border-radius: 10px;
+}
+.card2{
+    display: flex;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.P3{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.Img3{
+    background-color: transparent;
+    border-radius: 10px;
+    color: black;
+}
+.card3{
+    display: flex;
+}
+.D1{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+.P4{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.card4{
+    display: flex;
+}
+.D2{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+
+}
+.P5{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.card5{
+    display: flex;
+}
+.D3{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+.P6{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.card6{
+    display: flex;
+}
+.D4{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+.Img6{
+    width: 20px;
+    height: 20px;
+}
+.P7{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.card7{
+    display: flex;
+}
+.D5{
+    color: antiquewhite;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+}
+.Container{
+    display: flex;
+}
+.Search{
+    display: flex;
+}
+.Hello{
+    margin-left: 50px;
+}
+.In{
+    margin-left: 850px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 15px;
+}
+.main{
+    display: flex;
+}
+.Main{
+    display: flex;
+    flex-direction: column;
+}
+.Container{
+    background-color: antiquewhite;
+}
+.Card{
+    display: flex;
+    margin-left: 50px;
+    width: 200px;
+    height: 160px;
+    background-color: white;
+    margin-top: 27px;
+    text-overflow: clip;
+    border-radius: 20px;
+
+}
+.Img8{
+    margin-top: 50px;
+    width: 30px;
+    height: 30px;
+}
+.N1{
+    column-gap: 10px;
+    margin-bottom: 5px;
+}
+.B1{
+    color: green;
+}
+.Card1{
+    display: flex;
+    margin-left: 50px;
+    width: 200px;
+    height: 160px;
+    background-color: white;
+    margin-top: 27px;
+    text-overflow: clip;
+    border-radius: 20px;
+
+}
+.Img9{
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+}
+.N2{
+    column-gap: 10px;
+    margin-bottom: 5px;
+}
+.B2{
+    color: red;
+}
+.Card2{
+    display: flex;
+    margin-left: 50px;
+    width: 200px;
+    height: 160px;
+    background-color: white;
+    margin-top: 27px;
+    text-overflow: clip;
+    border-radius: 20px;
+
+}
+.Img10{
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+}
+.N3{
+    column-gap: 10px;
+    margin-bottom: 5px;
+}
+.B3{
+    color: red;
+}
+.Card3{
+    display: flex;
+    margin-left: 50px;
+    width: 200px;
+    height: 160px;
+    background-color: white;
+    margin-top: 27px;
+    text-overflow: clip;
+    border-radius: 20px;
+
+}
+.Img11{
+    margin-top: 50px;
+    width: 50px;
+    height: 50px;
+}
+.N4{
+    column-gap: 10px;
+    margin-bottom: 5px;
+}
+.B4{
+    color: green;
+}
+.Container2{
+    display: flex;
+    column-gap: 55px;   
+}
+.Container3{
+    width:650px;
+    height: 350px;
+    background-color: white;
+    margin:50px;
+    border-radius: 20px;
+
+}
+.Card4{
+    display: flex;
+    justify-content: space-between;
+}
+.O{
+    margin-left:50px;
+    margin-top: 20px;
+}
+.Q{
+    margin-right: 50px;
+    margin-top: 20px;
+    background-color: whitesmoke;
+    width: 150px;
+    height: 30px;
+    
+    
+}
+.S{
+    margin-left: 20px;
+}
+.Pr{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Pr2{
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-end;
+    
+          
+}
+.A1{
+    width:30px;
+    height: 110px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A2{
+    width:30px;
+    height: 80px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A3{
+    width:30px;
+    height: 170px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A4{
+    width:30px;
+    height: 120px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A5{
+    width:30px;
+    height:140px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A6{
+    width:30px;
+    height: 60px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A7{
+    width:30px;
+    height: 140px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A8{
+    width:30px;
+    height: 190px;
+    background-color: blue;
+    border-radius: 10px;
+}
+.A9{
+    width:30px;
+    height: 150px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A10{
+    width:30px;
+    height: 125px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A11{
+    width:30px;
+    height: 115px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.A12{
+    width:30px;
+    height: 135px;
+    background-color: aquamarine;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+    width: 360px;
+    border-radius: 20px;
+    background-color: white;
+    margin: 50px;
+    flex-direction: column;
+    height: 350px;
+    
+}    
+.Hi{
+    width: 90%;
+    height: 70%;
+}
+.H4{
+    padding-left: 30px;
+}
+.Container5{
+    display: flex;
+}
+.Container6{
+    height: 365px;
+    width: 1100px;
+    background-color: white;
+    margin-left: 50px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.Container7{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px; 
+    margin-right: 40px;
+    margin-top: 20px;
+
+}
+.Container8{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+}
+.Stock{
+    display: flex;
+    column-gap: 80px;
+    margin-right:60px;   
+}
+.Img12{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 33px;
+}
+.Container9{
+    display: flex;
+    justify-content: space-between;
+
+}
+.Stock2{
+    display: flex;
+    column-gap: 80px;
+    margin-right: 90px;
+}
+.Container10{
+    display: flex;
+}
+.Img13{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 33px;
+}
+.Container11{
+    display: flex;
+    justify-content: space-between;
+
+}
+.Stock3{
+    display: flex;
+    column-gap: 80px;
+}
+.Container12{
+    display: flex;
+}
+.Stock3{
+    column-gap: 80px;
+    margin-right: 90px;
+}
+@media screen and (max-width:576px) {
+    body{
+        height: 100vh;
+    }
+    
+}
+
+
+
+
+
